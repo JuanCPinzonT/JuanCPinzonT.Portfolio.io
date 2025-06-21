@@ -12,8 +12,10 @@ The technologies I've used include:
 
 ## SQL Projects
 
-- JuanCPinzonT.Portfolio.io/sql
+- https://github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/sql
 
 ## PYTHON Projects
+
+- https://github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/python
 
 
