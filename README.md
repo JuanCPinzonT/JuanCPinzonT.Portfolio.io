@@ -12,7 +12,7 @@ The technologies I've used include:
 
 ## SQL Projects
 
--
+- JuanCPinzonT.Portfolio.io/sql
 
 ## PYTHON Projects
 
