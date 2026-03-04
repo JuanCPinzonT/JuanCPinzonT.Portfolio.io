@@ -15,6 +15,7 @@ The data model follows a **Snowflake Schema** due to the normalized nature of th
 
 ![Entity Relationship Diagram](assets/model_view.png)
 
+## 🧠 DAX
 * **Average Sold Quantity:** `Media cantidad vendida = AVERAGE(Detalles_de_pedidos[Cantidad])`
 * **Total Order** `Total pedido = RELATED(Productos[PrecioUnidad]) *Detalles_de_pedidos[Cantidad]`
 
