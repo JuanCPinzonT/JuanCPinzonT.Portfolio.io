@@ -24,5 +24,4 @@ The data model follows a **Snowflake Schema** due to the normalized nature of th
 * **Power BI & DAX:** Data modeling and interactive visualization.
 
 ## 📈 Dashboard Preview
-![Main Dashboard](assets/neptuno_main.jpg)
-*(Include screenshots of your Sales, Logistics, and Product pages here)*
+![Main Dashboard](PowerBI/Neptuno/assets/NEPTUNO_PBI.pdf)
