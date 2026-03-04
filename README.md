@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio - Juan Camilo Pinzón
 
-Welcome to my portfolio. I am a Data Analyst focused on transforming raw data into actionable insights using Python, SQL, and Business Intelligence tools.
+Welcome to my portfolio. I'm a Data Analyst focused on transforming raw data into actionable insights using Python, SQL, and Business Intelligence tools.
 
 ## 🛠️ Tech Stack
 * **Python:** Pandas, Matplotlib, NumPy, Seaborn.
@@ -11,7 +11,7 @@ Welcome to my portfolio. I am a Data Analyst focused on transforming raw data in
 
 ## 🐍 Python Projects
 
-### [Real Estate SMS Marketing ETL](https://github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/python_sms_etl)
+### [Real Estate SMS Marketing ETL](https://github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/python/Real-Estate-sms-etl)
 * **Description:** A complete ETL pipeline that processes expired property listings, cleans contact data, and generates personalized SMS templates.
 * **Key Skills:** Data Cleaning, String Manipulation, Modulo-based Logic.
 
