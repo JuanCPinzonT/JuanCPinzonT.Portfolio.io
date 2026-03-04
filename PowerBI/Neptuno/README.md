@@ -1,6 +1,6 @@
 # 📊 Neptuno: End-to-End Business Intelligence Project
 
-This project demonstrates a complete data workflow: staging a DataBase in Excel, and building a comprehensive analytical dashboard in Power BI.
+This project demonstrates a complete data workflow: staging a DataBase in Excel, and building a comprehensive analytical dashboard in Power BI. Please note that for this project, no data cleaning was required for its purpose, although it would have produced a better result.
 
 ## 🔄 Data Pipeline
 1. **Staging:** Original DB was exported to Excel for initial validation.
