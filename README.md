@@ -23,5 +23,5 @@ Welcome to my portfolio. I'm a Data Analyst focused on transforming raw data int
 ---
 
 ## 📈 Power BI & Articles
-* **[Neptuno: End-to-End Business Intelligence Project  - Power BI](PowerBI/Neptuno)
+* **[Neptuno: End-to-End Business Intelligence Project  - Power BI](PowerBI/Neptuno)**
 * **[5G in Latin America](https://buho.media/blog/5g-en-america-latina-entre-la-diplomacia-y-la-salud-publica/):** A published data-driven article analyzing the impact of 5G technology.
