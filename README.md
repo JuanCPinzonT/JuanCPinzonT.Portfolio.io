@@ -15,6 +15,8 @@ Welcome to my portfolio. I'm a Data Analyst focused on transforming raw data int
 * **Description:** A complete ETL pipeline that processes expired property listings, cleans contact data, and generates personalized SMS templates.
 * **Key Skills:** Data Cleaning, String Manipulation, Modulo-based Logic.
 
+### * **[Python Repository](https://github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/python):** Collection of scripts for data extraction and analysis.
+
 ---
 
 ## 🗄️ SQL Projects
