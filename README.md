@@ -23,5 +23,5 @@ Welcome to my portfolio. I'm a Data Analyst focused on transforming raw data int
 ---
 
 ## 📈 Power BI & Articles
-* **[Neptuno: End-to-End Business Intelligence Project  - Power BI](github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/powerBI/Neptuno/README.md)
+* **[Neptuno: End-to-End Business Intelligence Project  - Power BI](github.com/JuanCPinzonT/JuanCPinzonT.Portfolio.io/tree/main/PowerBI/Neptuno/README.md)
 * **[5G in Latin America](https://buho.media/blog/5g-en-america-latina-entre-la-diplomacia-y-la-salud-publica/):** A published data-driven article analyzing the impact of 5G technology.
