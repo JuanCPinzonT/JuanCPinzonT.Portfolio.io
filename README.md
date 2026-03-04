@@ -3,7 +3,7 @@
 Hi, I'm Juan Camilo Pinzón. This is my portfolio with projects I've developed in Python, SQL, and Power BI for Data Analysis.
 
 The technologies I've used include:
-- Python (pandas, matplotlib, numpy,seaborn)
+- Python (pandas, matplotlib, numpy, seaborn)
 - SQL (PostgreSQL)
 - Power BI, Excel
 
