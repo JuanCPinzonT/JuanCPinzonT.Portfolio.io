@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 *.xlsx
 .ipynb_checkpoints/
 __pycache__/
+=======
+# PyCharm / IDE files
+.idea/
+*.iml
+cmake-build-*/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+
+# Data Files (Importante para no saturar GitHub)
+*.csv
+*.xlsx
+*.zip
+>>>>>>> feat: Project Course LB EDA
