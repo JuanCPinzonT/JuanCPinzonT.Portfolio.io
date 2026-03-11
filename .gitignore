@@ -1,11 +1,8 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 *.xlsx
 .ipynb_checkpoints/
 __pycache__/
 =======
->>>>>>> master
 # PyCharm / IDE files
 .idea/
 *.iml
@@ -20,9 +17,5 @@ venv/
 # Data Files (Importante para no saturar GitHub)
 *.csv
 *.xlsx
-<<<<<<< HEAD
-*.zip
-=======
 *.zip
 >>>>>>> feat: Project Course LB EDA
->>>>>>> master
