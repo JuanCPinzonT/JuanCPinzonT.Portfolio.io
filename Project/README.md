@@ -83,7 +83,7 @@ depending on the role I'm interested.
 
 ### Results
 
-![Visualization of Top Skill for Data Jobs in Spain](images/skills_demand_roles_Spain.png)
+![Visualization of Top Skill for Data Jobs in Spain](project/images/skills_demand_roles_Spain.png)
 *Bar chart visualizing the likelihood of skills requested
 for job postings for data jobs.*
 
